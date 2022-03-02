@@ -48,6 +48,8 @@ For details on individual test cases please consult the website. This document w
 
 The modified files by the one and only Kirbs can be found [here](https://github.com/DylanKirbs/ModifiedTestingFilesCS114). They are not majorly different from the original testing scripts but contain some quality of life features. They will automatically compile your program for you and should be able to work on all machines as long as you follow the methods listed in the OS sections. You will still have to elevate their privileges and manually enter in your project name but after that you're sorted for good.
 
+On the GitHub repository click on Code and Download .zip then install it normally.
+
 ---
 
 ## Linux
