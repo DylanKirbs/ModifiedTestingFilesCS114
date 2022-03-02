@@ -1,3 +1,4 @@
+<!-- Written by Dylan Kirby-->
 # Additional documentation for the Computer Science Project 2022
 
 ## Contents
