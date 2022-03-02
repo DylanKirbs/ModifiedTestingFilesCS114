@@ -128,9 +128,12 @@ The output of the tester seems very daunting at first and is very unintuitive to
 
 You will need to recompile your program every time that you make changes so I would recommend downloading the modified test files [here](https://github.com/DylanKirbs/ModifiedTestingFilesCS114) which will automatically do that for you.
 
+At the beginning the output will first tell you what category and case is being tested, then what the arguments are that are being used. Following that are the moves, this will be a list of all of the moves that the tester will make (Eg. 2 - Quit). Finally the comparison will be shown.
+
 **The best case**
 
-    $ ./testone.sh 1 1
+> $ ./testone.sh 1 1
+
     Category 1, case 1
     Arguments:
       3 0 2 3
@@ -143,7 +146,8 @@ Running a test case and seeing this is the best case scenario, this means that t
 
 **The normal case**
 
-    $ ./testone.sh 1 1
+> $ ./testone.sh 1 1
+
     Category 1, case 1
     Arguments:
       3 0 2 3
@@ -168,3 +172,5 @@ Running a test case and seeing this is the best case scenario, this means that t
     > .*******
     > .*******
     > .*******
+
+The < left arrow denotes the output that your program produced, the > right arrow denotes the expected output. In this case the given output was a comma instead of a full stop.
