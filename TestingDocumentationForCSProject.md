@@ -1,9 +1,13 @@
 <!-- Written by Dylan Kirby-->
 # Additional documentation for the Computer Science Project 2022
 
+### Disclaimer
+This document serves as an **Unofficial** supplementary information document for the Computer science project. This does not override the information on the official website and any unofficial scripts and information will not be valid to acquire additional marks. To clarify, if your project works after following the information and scripts contained here but does not work with the official scrips, you will not be granted the marks.
+
 ## Contents
 
 - [Additional documentation for the Computer Science Project 2022](#additional-documentation-for-the-computer-science-project-2022)
+    - [Disclaimer](#disclaimer)
   - [Contents](#contents)
   - [Overview](#overview)
   - [The modified files](#the-modified-files)
