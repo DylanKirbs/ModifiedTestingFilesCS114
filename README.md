@@ -1,6 +1,13 @@
-# ModifiedTestingFilesCS114
-This repository contains the modified testing files for the CS114 project 
+# Unofficial Help for the CS114 project
 
-Note: This is unofficial and may not be used for final marking.
+This repository contains information to assist with the CS114 project for 2022.
 
-All information can be found in the Testing Documentation file.
+---
+
+### Disclaimer
+
+---
+
+### Issues or requests
+
+If you have an issue or request, please create a new issue on the issues tab.
