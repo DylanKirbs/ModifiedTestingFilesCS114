@@ -1,6 +1,6 @@
-# Unofficial Help for the CS114 project
+# Unofficial Help for the CS113/114 project
 
-This repository contains information to assist with the CS114 project for 2022.
+This repository contains information to assist with the CS113/114 project for 2022.
 
 ---
 
