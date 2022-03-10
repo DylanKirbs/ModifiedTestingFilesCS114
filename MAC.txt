@@ -1,1 +1,10 @@
 https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/
+
+Open eclips
+Right click on the folder that contains the testing docs and open in system explorer
+open a terminal and type "cd" add a space and drag the file from the explorer to the terminal
+It should look like "cd /volumes\..../project"
+Hit enter and the path on the left should update
+Then you should be able to use the testers
+
+sudo does elevate
