@@ -1,10 +1,13 @@
-https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/
+Navigate to your folder via the terminal.
+This can be done by typing "cd" followed by a space the dragging your folder from the file explorer to the terminal.
+You should have a line like this "cd /volumes\.../project"
+After pressing enter to execute the command your path should update.
 
-Open eclips
-Right click on the folder that contains the testing docs and open in system explorer
-open a terminal and type "cd" add a space and drag the file from the explorer to the terminal
-It should look like "cd /volumes\..../project"
-Hit enter and the path on the left should update
-Then you should be able to use the testers
+Use the following command (which only needs to be run once, ever) to give the scripts executable permissions.
+"chmod +x testone.bash testall.bash runone.bash"
 
+Then in order to use the testers run them via the "sh" command as follows
 sh ./testone.bash 2 3
+
+If you get an "operation not permitted" error follow this guide:
+https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/
