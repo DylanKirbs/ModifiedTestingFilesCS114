@@ -7,4 +7,4 @@ It should look like "cd /volumes\..../project"
 Hit enter and the path on the left should update
 Then you should be able to use the testers
 
-sudo does elevate
+sh ./testone.bash 2 3
